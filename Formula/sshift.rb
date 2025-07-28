@@ -2,7 +2,7 @@ class Sshift < Formula
   desc "SSH server management tool with jump server support"
   homepage "https://github.com/takealook97/sshift"
   url "https://github.com/takealook97/sshift/archive/refs/tags/v2.1.0.tar.gz"
-  sha256 "5bb37528fe68ff8f853d749353ca68b5c30cc4fcca3a4b8d96476c4f6649afce"
+  sha256 "ab33e34b27cac408ffb532fb9c885ed004fb81aefa667cc52327e306b8222574"
   license "MIT"
 
   depends_on "go" => :build
