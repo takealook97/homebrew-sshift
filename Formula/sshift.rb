@@ -26,3 +26,4 @@ class Sshift < Formula
     assert_match "Usage:", shell_output("#{bin}/sshift help")
   end
 end
+# Updated for v2.3.1
